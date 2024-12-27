@@ -1,0 +1,20 @@
+##  12 RKQ1.200826.002 V13.0.4.0.SGICMXM release-keys
+- Manufacturer: xiaomi
+- Platform: lito
+- Codename: picasso
+- Brand: Redmi
+- Flavor: 
+- Release Version: 12
+- Kernel Version: 4.19.113
+- Id: RKQ1.200826.002
+- Incremental: V13.0.4.0.SGICMXM
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: false
+- Locale: undefined
+- Screen Density: undefined
+- Fingerprint: Redmi/picasso_48m/picasso:12/RKQ1.200826.002/V13.0.4.0.SGICMXM:user/release-keys
+- OTA version: 
+- Branch: -12-RKQ1.200826.002-V13.0.4.0.SGICMXM-release-keys
+- Repo: redmi_picasso_dump
